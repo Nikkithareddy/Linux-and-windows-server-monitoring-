@@ -4,8 +4,6 @@ A small virtual lab for practising server monitoring, alerting, routine administ
 
 **Tech stack:** RHEL, Ubuntu, Windows Server 2019, Bash, PowerShell, VirtualBox
 
-# Linux and Windows Server Monitoring & Incident Management Lab
-
 A hands-on IT infrastructure operations lab designed to practise server monitoring, system administration, automated alerting, incident simulation, troubleshooting, and incident recovery across Linux and Windows Server environments.
 
 The project demonstrates practical system administration and incident management workflows similar to those used in enterprise IT operations and data center environments.
